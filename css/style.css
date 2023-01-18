@@ -50,6 +50,7 @@ h3 {
     top:-30px;
     width:25px;
     height:25px;
+    border: #ffffff00;
     background-color: #ffffff00;
     background-image: url(../svg/form-x.svg);
     background-size: 21px;
