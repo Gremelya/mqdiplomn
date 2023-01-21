@@ -377,23 +377,23 @@ h3 {
     height: 318px;
 }
 
-.trend-block-1{
+.trend-windowsill{
     background-image: url(../images/trend1.jpg);
 }
 
-.trend-block-2{
+.trend-cheese{
     background-image: url(../images/trend2.jpg);
 }
 
-.trend-block-3{
+.trend-walk{
     background-image: url(../images/trend3.jpg);
 }
 
-.trend-block-4{
+.trend-orange{
     background-image: url(../images/trend4.jpg);
 }
 
-.trend-block-1::before, .trend-block-2::before, .trend-block-3::before, .trend-block-4::before{
+.trend-windowsill::before, .trend-cheese::before, .trend-walk::before, .trend-orange::before{
     content: "";
     background-color: #000000;
     position: absolute;
